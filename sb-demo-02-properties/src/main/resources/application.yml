@@ -5,3 +5,22 @@ server:
 spring:
   profiles:
     active: dev
+################ 复杂数据类型 ################
+aliyun:
+  ons:
+    topics:
+      - topic: TopicMQ2
+        tags:
+          - thing: thing_event_post
+            pks:
+              - a1JCAfjF9X9 # 卡洛米插座--16A
+              - a1z95jkp4Y1 # 卡洛米插座--10A计量款
+              - a1u6Upri2hA # 卡洛米插座--10A基础款
+              - a1WtvLuWsTS # 红外感应器--墙装式
+          - thing: thing_properties_post
+            pks:
+              - a1JCAfjF9X9 # 卡洛米插座--16A
+              - a1z95jkp4Y1 # 卡洛米插座--10A计量款
+              - a1u6Upri2hA # 卡洛米插座--10A基础款
+              - a1WtvLuWsTS # 红外感应器--墙装式
+    

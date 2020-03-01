@@ -10,8 +10,8 @@ import lombok.Data;
 * 2020年2月25日 上午11:12:51
 */
 @Data
-@ConfigurationProperties(prefix = "developer")
 @Component
+@ConfigurationProperties(prefix = "developer")
 public class DeveloperProperty {
 	private String name;
 	private String website;
