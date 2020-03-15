@@ -9,5 +9,4 @@ public class SbDemo03ActuatorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SbDemo03ActuatorApplication.class, args);
 	}
-
 }
