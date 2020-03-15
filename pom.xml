@@ -9,6 +9,7 @@
 	<modules>
 		<module>sb-demo-01-helloworld</module>
 		<module>sb-demo-02-properties</module>
+		<module>sb-demo-03-actuator</module>
 	</modules>
 	<packaging>pom</packaging>
 	
