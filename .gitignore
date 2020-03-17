@@ -30,3 +30,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/sb-demo-01-helloworld/mvnw
+/sb-demo-01-helloworld/mvnw.cmd
