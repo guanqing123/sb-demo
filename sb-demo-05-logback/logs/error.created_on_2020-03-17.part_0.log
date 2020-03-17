@@ -1,0 +1,6 @@
+2020-03-17 08:40:41.056 ERROR 768 --- [main] c.g.logback.SbDemo05LogbackApplication   SbDemo05LogbackApplication.java:20: Spring boot启动初始化了 126 个 Bean
+2020-03-17 08:40:41.066 ERROR 768 --- [main] c.g.logback.SbDemo05LogbackApplication   SbDemo05LogbackApplication.java:27: 【SpringBootDemoLogbackApplication】启动异常：
+
+java.lang.ArithmeticException: / by zero
+	at com.guanqing.logback.SbDemo05LogbackApplication.main(SbDemo05LogbackApplication.java:23)
+
