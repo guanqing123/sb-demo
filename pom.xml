@@ -10,7 +10,8 @@
 		<module>sb-demo-02-properties</module>
 		<module>sb-demo-03-actuator</module>
     	<module>sb-demo-04-admin</module>
-  </modules>
+    	<module>sb-demo-05-logback</module>
+	</modules>
 	<packaging>pom</packaging>
 	
 	<name>sb-demo</name>
