@@ -30,6 +30,7 @@
 		<hutool.version>5.0.0</hutool.version>
 		<guava.version>20.0</guava.version>
 		<commons-lang3.version>3.6</commons-lang3.version>
+		<user.agent.version>1.20</user.agent.version>
 	</properties>
 	
 	<dependencyManagement>
@@ -55,6 +56,13 @@
             <artifactId>guava</artifactId>
             <version>${guava.version}</version>
           </dependency>
+          
+          <!-- 解析 UserAgent 信息 -->
+	      <dependency>
+	        <groupId>eu.bitwalker</groupId>
+	        <artifactId>UserAgentUtils</artifactId>
+	        <version>${user.agent.version}</version>
+	      </dependency>
           
           <dependency>
             <groupId>org.apache.commons</groupId>
