@@ -14,7 +14,7 @@
 | [sb-demo-04-admin-client](./sb-demo-04-admin/sb-demo-04-admin-client) | spring-boot 集成 spring-boot-admin 来可视化的监控 spring-boot 程序的运行状态，可以与 actuator 互相搭配使用，客户端示例 |
 | [sb-demo-04-admin-server](./sb-demo-04-admin/sb-demo-04-admin-server) | spring-boot 集成 spring-boot-admin 来可视化的监控 spring-boot 程序的运行状态，可以与 actuator 互相搭配使用，服务端示例 |
 | [sb-demo-05-logback](./sb-demo-05-logback)       | spring-boot 集成 logback 日志                                |
-| [spring-boot-demo-log-aop](./spring-boot-demo-log-aop)       | spring-boot 使用 AOP 切面的方式记录 web 请求日志             |
+| [sb-demo-06-log-aop](./sb-demo-06-log-aop)       | spring-boot 使用 AOP 切面的方式记录 web 请求日志             |
 | [spring-boot-demo-exception-handler](./spring-boot-demo-exception-handler) | spring-boot 统一异常处理，包括2种，第一种返回统一的 json 格式，第二种统一跳转到异常页面 |
 | [spring-boot-demo-template-freemarker](./spring-boot-demo-template-freemarker) | spring-boot 集成 Freemarker 模板引擎                         |
 | [spring-boot-demo-template-thymeleaf](./spring-boot-demo-template-thymeleaf) | spring-boot 集成 Thymeleaf 模板引擎                          |
