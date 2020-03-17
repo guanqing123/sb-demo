@@ -9,11 +9,11 @@
 | Module 名称                                                  | Module 介绍                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [sb-demo-01-helloworld](./sb-demo-01-helloworld) | spring-boot 的一个 helloworld                                |
-| [spring-boot-demo-properties](./spring-boot-demo-properties) | spring-boot 读取配置文件中的内容                             |
-| [spring-boot-demo-actuator](./spring-boot-demo-actuator)     | spring-boot 集成 spring-boot-starter-actuator 用于监控 spring-boot 的启动和运行状态 |
-| [spring-boot-demo-admin-client](./spring-boot-demo-admin/spring-boot-demo-admin-client) | spring-boot 集成 spring-boot-admin 来可视化的监控 spring-boot 程序的运行状态，可以与 actuator 互相搭配使用，客户端示例 |
-| [spring-boot-demo-admin-server](./spring-boot-demo-admin/spring-boot-demo-admin-server) | spring-boot 集成 spring-boot-admin 来可视化的监控 spring-boot 程序的运行状态，可以与 actuator 互相搭配使用，服务端示例 |
-| [spring-boot-demo-logback](./spring-boot-demo-logback)       | spring-boot 集成 logback 日志                                |
+| [sb-demo-02-properties](./sb-demo-02-properties) | spring-boot 读取配置文件中的内容                             |
+| [sb-demo-03-actuator](./sb-demo-03-actuator)     | spring-boot 集成 spring-boot-starter-actuator 用于监控 spring-boot 的启动和运行状态 |
+| [sb-demo-04-admin-client](./sb-demo-04-admin/sb-demo-04-admin-client) | spring-boot 集成 spring-boot-admin 来可视化的监控 spring-boot 程序的运行状态，可以与 actuator 互相搭配使用，客户端示例 |
+| [sb-demo-04-admin-server](./sb-demo-04-admin/sb-demo-04-admin-server) | spring-boot 集成 spring-boot-admin 来可视化的监控 spring-boot 程序的运行状态，可以与 actuator 互相搭配使用，服务端示例 |
+| [sb-demo-05-logback](./sb-demo-05-logback)       | spring-boot 集成 logback 日志                                |
 | [spring-boot-demo-log-aop](./spring-boot-demo-log-aop)       | spring-boot 使用 AOP 切面的方式记录 web 请求日志             |
 | [spring-boot-demo-exception-handler](./spring-boot-demo-exception-handler) | spring-boot 统一异常处理，包括2种，第一种返回统一的 json 格式，第二种统一跳转到异常页面 |
 | [spring-boot-demo-template-freemarker](./spring-boot-demo-template-freemarker) | spring-boot 集成 Freemarker 模板引擎                         |
