@@ -11,6 +11,7 @@
 		<module>sb-demo-03-actuator</module>
     	<module>sb-demo-04-admin</module>
     	<module>sb-demo-05-logback</module>
+    	<module>sb-demo-22-task</module>
 	</modules>
 	<packaging>pom</packaging>
 	
